@@ -1,5 +1,5 @@
 # VrindaStore_AnnualSalesReport_2022
-# Vrinda Store Annual Sales Report 2022
+
 
 ## Objective
 Analyze sales data from 2022 to identify key trends and provide actionable insights to boost sales in 2023.
