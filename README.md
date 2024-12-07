@@ -16,10 +16,10 @@ Analyze 2022 sales data to identify trends, customer demographics, and high-perf
 -**Category Performance**: Identified best-selling product categories.
 
 ## Recommendations
--**Target Audience**: Women aged 30-49 years.
--**Regional Focus**: Prioritize marketing in Maharashtra, Karnataka, and Uttar Pradesh.
--**Channel Strategy**: Leverage Amazon, Flipkart, and Myntra with ads and offers.
--**Promotions**: Launch seasonal campaigns with discounts and coupons.
+- **Target Audience**: Women aged 30-49 years.
+- **Regional Focus**: Prioritize marketing in Maharashtra, Karnataka, and Uttar Pradesh.
+- **Channel Strategy**: Leverage Amazon, Flipkart, and Myntra with ads and offers.
+- **Promotions**: Launch seasonal campaigns with discounts and coupons.
 
 ## Project Highlights
 - **Top-performing regions**: Maharashtra, Karnataka, Uttar Pradesh.
