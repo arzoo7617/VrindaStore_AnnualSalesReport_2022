@@ -7,19 +7,19 @@ Objective
 Analyze 2022 sales data to identify trends, customer demographics, and high-performing regions to develop strategic plans for 2023.
 
 ## Key Insights
-**Sales Trends**: Peak sales observed in specific months; combined chart for sales and orders.
-**Gender Trends**: Women accounted for ~65% of total purchases.
-**Order Status**: Breakdown of completed, canceled, and returned orders.
-**Top Regions**: Maharashtra, Karnataka, and Uttar Pradesh lead in sales.
-**Age Demographics**: Adults aged 30-49 years contributed ~50% of sales.
-**Top Channels: Amazon**, Flipkart, and Myntra generated maximum sales.
-**Category Performance**: Identified best-selling product categories.
+-**Sales Trends**: Peak sales observed in specific months; combined chart for sales and orders.
+-**Gender Trends**: Women accounted for ~65% of total purchases.
+-**Order Status**: Breakdown of completed, canceled, and returned orders.
+-**Top Regions**: Maharashtra, Karnataka, and Uttar Pradesh lead in sales.
+-**Age Demographics**: Adults aged 30-49 years contributed ~50% of sales.
+-**Top Channels: Amazon**, Flipkart, and Myntra generated maximum sales.
+-**Category Performance**: Identified best-selling product categories.
 
 ## Recommendations
-**Target Audience**: Women aged 30-49 years.
-**Regional Focus**: Prioritize marketing in Maharashtra, Karnataka, and Uttar Pradesh.
-**Channel Strategy**: Leverage Amazon, Flipkart, and Myntra with ads and offers.
-**Promotions**: Launch seasonal campaigns with discounts and coupons.
+-**Target Audience**: Women aged 30-49 years.
+-**Regional Focus**: Prioritize marketing in Maharashtra, Karnataka, and Uttar Pradesh.
+-**Channel Strategy**: Leverage Amazon, Flipkart, and Myntra with ads and offers.
+-**Promotions**: Launch seasonal campaigns with discounts and coupons.
 
 ## Project Highlights
 - **Top-performing regions**: Maharashtra, Karnataka, Uttar Pradesh.
